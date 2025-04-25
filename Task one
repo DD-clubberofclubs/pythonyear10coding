@@ -1,0 +1,10 @@
+length = int(input('Give the length of a rectangle'))
+width = int(input('give the width of a rectangle'))
+area = length*width
+print(area)
+
+int = 20
+flt = 2.1
+str = 'p'
+bool = TRUE
+
